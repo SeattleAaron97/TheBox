@@ -1,0 +1,72 @@
+[
+{ 
+ 	"id": 0,
+ 	"Name": "Tropicks",
+ 	"Artist": "Broke For Free",
+	"Album": "Petal",
+	"Genre": "Electronic, Instrumental",
+ 	"Src": "Music/Broke_For_Free_-_13_-_Tropicks.mp3",
+ 	"ReleaseDate": "07/17/2014",
+ 	"SongLength": "4:08"
+},
+
+{ 
+ 	"id": 1,
+ 	"Name": "Wonder Happens",
+ 	"Artist": "Podington Bear",
+	"Album": "Meet Podington Bear",
+	"Genre": "Electronic/Instrumental",
+ 	"Src": "Music/Podington_Bear_-_01_-_Wonder_Happens.mp3",
+ 	"ReleaseDate": "March 28th 2018",
+ 	"SongLength": "3:08"
+},
+	
+{
+ 	"id": 2,
+ 	"Name": "King of the Broken Hearts",
+ 	"Artist": "XTaKeRuX",
+	"Album": "The Way I Am",
+	"Genre": "Rock/Instrumental",
+ 	"Src": "Music/XTaKeRuX_-_King_Of_The_Broken_Hearts.mp3",
+ 	"ReleaseDate": "March 2nd 2019",
+ 	"SongLength": "3:35"
+},
+	
+{
+ 	"id": 3,
+ 	"Name": "DD Groove",
+ 	"Artist": "Kevin Macleod",
+	"Album": "Funk & Blues",
+	"Genre": "Blues",
+ 	"Src": "Music/Kevin_Macleod_-_04_-_DD_Groove.mp3",
+ 	"ReleaseDate": "July 15th 2011",
+ 	"SongLength": "3:41"
+},
+
+{
+	"id": 4,
+ 	"Name": "Favorite Secrets",
+ 	"Artist": "Waylon Thornton",
+	"Album": "Mystery Club",
+	"Genre": "Pop, Lo-Fi, Surf",
+ 	"Src": "Music/02_-_Favorite_Secrets.mp3",
+ 	"ReleaseDate": "January 25th 2011",
+ 	"SongLength": "1:15"
+},
+
+{
+ 	"id": 5,
+ 	"Name": "Night Owl",
+ 	"Artist": "Broke For Free",
+	"Album": "Directionless",
+	"Genre": "Electronic, Instrumental",
+ 	"Src": "Music/Broke_For_Free_-_01_-_Night_Owl.mp3",
+ 	"ReleaseDate": "01/18/2011",
+ 	"SongLength": "3:14"
+}
+	
+]
+
+
+
+
